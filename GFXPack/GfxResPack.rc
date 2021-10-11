@@ -1,0 +1,34 @@
+TSPGND  RCDATA  .\gfxs\tspgnd.png
+
+YOUWIN  RCDATA  .\gfxs\youwin.png
+YOULSE  RCDATA  .\gfxs\youlose.png
+
+PLOTSC  RCDATA  .\gfxs\plotsecret.png
+
+PLOT00  RCDATA  .\gfxs\plot0.png
+PLOT01  RCDATA  .\gfxs\plot1.png
+PLOT02  RCDATA  .\gfxs\plot2.png
+PLOT03  RCDATA  .\gfxs\plot3.png
+PLOT04  RCDATA  .\gfxs\plot4.png
+PLOT05  RCDATA  .\gfxs\plot5.png
+PLOT06  RCDATA  .\gfxs\plot6.png
+PLOT07  RCDATA  .\gfxs\plot7.png
+PLOT08  RCDATA  .\gfxs\plot8.png
+PLOT09  RCDATA  .\gfxs\plot9.png
+PLOT10  RCDATA  .\gfxs\plot10.png
+
+CHK00   RCDATA  .\gfxs\chk0.png
+CHK01   RCDATA  .\gfxs\chk1.png
+CHK02   RCDATA  .\gfxs\chk2.png
+
+INTF01  RCDATA  .\gfxs\interface1.png
+INTF02  RCDATA  .\gfxs\interface2.png
+INTF03  RCDATA  .\gfxs\interface3.png
+INTF04  RCDATA  .\gfxs\interface4.png
+INTF05  RCDATA  .\gfxs\interface5.png
+
+GND00   RCDATA  .\gfxs\ground0.jpg
+GND01   RCDATA  .\gfxs\ground1.jpg
+GND02   RCDATA  .\gfxs\ground2.jpg
+GND03   RCDATA  .\gfxs\ground3.jpg
+
